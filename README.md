@@ -12,4 +12,5 @@ aprendendo docker
 ### docker tag 9052f2a08e88 imagen3:tag3
 ### docker build -t nova_imagem:d .docker tag 9052f2a08e88 imagen3:tag3
 ### docker system prune
+### docker run -d -p 3000:3000 --name boi2 --rm 9052f2a08e88
 
