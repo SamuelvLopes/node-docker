@@ -1,2 +1,2 @@
 # node-docker
-aprendendo conteiners
+aprendendo docker
