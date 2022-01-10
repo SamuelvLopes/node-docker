@@ -9,3 +9,4 @@ aprendendo docker
 ### docker rm app_teste
 ### docker logs app_app -f
 ### docker tag 9052f2a08e88 imagen3:tag3
+### docker build -t nova_imagem:d .docker tag 9052f2a08e88 imagen3:tag3
