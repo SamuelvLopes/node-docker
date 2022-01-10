@@ -14,4 +14,4 @@ aprendendo docker
 ### docker system prune
 ### docker run -d -p 3000:3000 --name app_app --rm 9052f2a08e88
 
-###docker cp app_app:/app/app.js .\copia
+### docker cp app_app:/app/app.js .\copia
