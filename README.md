@@ -13,5 +13,5 @@ aprendendo docker
 ### docker build -t nova_imagem:d .docker tag 9052f2a08e88 imagen3:tag3
 ### docker system prune
 ### docker run -d -p 3000:3000 --name app_app --rm 9052f2a08e88
-
 ### docker cp app_app:/app/app.js .\copia
+### docker top app_app
