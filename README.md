@@ -16,4 +16,4 @@ aprendendo docker
 ### docker cp app_app:/app/app.js .\copia
 ### docker top app_app
 ### docker inspect app_app
-
+### docker stats
