@@ -21,3 +21,4 @@ aprendendo docker
 ### docker logout
 ### docker build -t samuellopes123/node-teste .
 ### docker push samuellopes123/node-teste
+### 
