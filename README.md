@@ -19,3 +19,5 @@ aprendendo docker
 ### docker stats
 ### docker login
 ### docker logout
+### docker build -t samuellopes123/node-teste .
+### docker push samuellopes123/node-teste
