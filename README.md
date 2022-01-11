@@ -17,3 +17,4 @@ aprendendo docker
 ### docker top app_app
 ### docker inspect app_app
 ### docker stats
+### docker login
