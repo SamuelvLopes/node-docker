@@ -18,3 +18,4 @@ aprendendo docker
 ### docker inspect app_app
 ### docker stats
 ### docker login
+### docker logout
