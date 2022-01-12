@@ -21,4 +21,4 @@ aprendendo docker
 ### docker logout
 ### docker build -t samuellopes123/node-teste .
 ### docker push samuellopes123/node-teste
-### 
+### docker run -d -p 801:80 --name boi99 --rm -v /data phpteste:teste3 ( Volume anonimo )
